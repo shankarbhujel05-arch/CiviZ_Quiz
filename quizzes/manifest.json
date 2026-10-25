@@ -1,0 +1,15 @@
+
+{
+  "topics": [
+    {
+      "title": "Building Foundations",
+      "description": "Practise foundation types, soil support and basic construction concepts.",
+      "file": "foundation.json"
+    },
+    {
+      "title": "Concrete Technology",
+      "description": "Practise concrete materials, properties and site quality control.",
+      "file": "concrete.json"
+    }
+  ]
+}
