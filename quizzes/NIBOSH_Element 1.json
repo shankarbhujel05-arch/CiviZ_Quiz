@@ -1,0 +1,1445 @@
+{
+  "title": "Health and Safety Foundations",
+  "description": "Quiz based on NEBOSH International General Certificate Element 1: Health and Safety Foundations, covering scope, definitions, hazards and risks, costs, legal frameworks, sources of information and management systems.",
+  "questions": [
+    {
+      "id": "q1",
+      "question": "What is a primary aim of health and safety at work according to the source material?",
+      "options": [
+        "To eliminate or minimise the risk of accident or injury and protect workers from work-related ill-health",
+        "To maximise production output regardless of working conditions",
+        "To ensure that all workplace hazards are permanently removed in every situation",
+        "To replace all legal duties with voluntary good practice"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that the aim should be to eliminate or at least minimise the risk of accident or injury and to protect workers from ill-health caused by working conditions.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q2",
+      "question": "Health and safety at work is based on understanding what?",
+      "options": [
+        "The causes of accidents and other events at the workplace that lead to harm",
+        "Only the financial costs of insurance premiums",
+        "Only the legal penalties for individual workers",
+        "The production targets set by customers"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source explains that health and safety at work is based on understanding the causes of accidents and other events at the workplace which lead to harm to workers and others nearby.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q3",
+      "question": "Where do the roots of a systematic approach to health and safety lie, according to the source?",
+      "options": [
+        "In the development of large-scale manufacturing operations",
+        "In modern office administration only",
+        "In international tourism",
+        "In agricultural marketing"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that the roots of a systematic approach to health and safety lie in the development of large-scale manufacturing operations.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q4",
+      "question": "How is occupational health and safety described today in relation to its engineering roots?",
+      "options": [
+        "It has moved a long way from its engineering roots and brings together a wide range of subject specialities",
+        "It remains limited only to machine guarding",
+        "It has been replaced entirely by legal study",
+        "It is concerned only with building construction"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source says occupational health and safety has moved a long way from its engineering roots and brings together a wide range of subject specialities to investigate ill-effects of work and their causes.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q5",
+      "question": "Which disciplines explain the properties of substances and how they behave in circumstances such as electricity, explosive or flammable materials, and acid?",
+      "options": [
+        "Chemistry and physics",
+        "Psychology and sociology",
+        "Law and management",
+        "Toxicology and medicine only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source identifies chemistry and physics as explaining the properties of different substances and how they behave in different circumstances.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q6",
+      "question": "A site team is assessing the fire and explosion risks of storing flammable solvents. Which contributing discipline is most directly relevant to understanding the behaviour of those substances?",
+      "options": [
+        "Chemistry and physics",
+        "Sociology",
+        "Law",
+        "Psychology"
+      ],
+      "answerIndex": 0,
+      "explanation": "Chemistry and physics explain the properties and behaviour of flammable materials, electricity and acids, so they are directly relevant to assessing solvent fire and explosion hazards.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q7",
+      "question": "Toxicology, hygiene and medicine are grouped under which contributing area of health and safety?",
+      "options": [
+        "Biological sciences",
+        "Engineering",
+        "Sociology",
+        "Law"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source lists biological sciences, including toxicology, hygiene and medicine, as explaining the composition and processes of living organisms.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q8",
+      "question": "Which discipline helps explain the effects of harmful organisms on people and the responses of the human body under physical stress?",
+      "options": [
+        "Biological sciences",
+        "Sociology",
+        "Law",
+        "Engineering"
+      ],
+      "answerIndex": 0,
+      "explanation": "Biological sciences, including toxicology, hygiene and medicine, explain effects of harmful organisms and human body responses to physical stress.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q9",
+      "question": "Safe design of machinery and vehicles and fireproofing buildings are examples of contributions from which discipline?",
+      "options": [
+        "Engineering",
+        "Psychology",
+        "Sociology",
+        "Law"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that engineering is responsible for the construction of buildings and mechanical processes, including safe design of machinery and vehicles and fireproofing buildings.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q10",
+      "question": "Which issue best illustrates the engineering contribution to health and safety?",
+      "options": [
+        "Designing machine guards and fireproof building features",
+        "Explaining group communication patterns",
+        "Deciding whether a worker was negligent in court",
+        "Studying motivation and stress on the mind"
+      ],
+      "answerIndex": 0,
+      "explanation": "Engineering contributes through safe design of machinery and vehicles, fireproofing buildings and similar physical design measures.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q11",
+      "question": "Psychology attempts to explain which of the following?",
+      "options": [
+        "The behaviour of the individual, including stress on the mind and motivation",
+        "The properties of acids and flammable substances",
+        "The rules and regulations of society",
+        "The design of machinery and vehicles"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states psychology attempts to explain the behaviour of the individual, such as effects of stress on the mind and motivation behind individual and group behaviour.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q12",
+      "question": "A manager investigates why one worker repeatedly takes shortcuts because of stress and low motivation. Which discipline is most relevant to understanding this individual behaviour?",
+      "options": [
+        "Psychology",
+        "Chemistry",
+        "Engineering",
+        "Law"
+      ],
+      "answerIndex": 0,
+      "explanation": "Psychology explains individual behaviour, including the effects of stress on the mind and the motivation behind behaviour.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q13",
+      "question": "Sociology attempts to explain which of the following?",
+      "options": [
+        "The behaviour of people in groups, including management processes and communication",
+        "The properties of electricity and acids",
+        "The safe design of machinery",
+        "The medical effects of harmful organisms"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states sociology attempts to explain the behaviour of people in groups, including management processes, patterns of work and communication in organisations.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q14",
+      "question": "Which discipline is most relevant to understanding how communication patterns and group behaviour affect safety in an organisation?",
+      "options": [
+        "Sociology",
+        "Physics",
+        "Engineering",
+        "Medicine"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sociology addresses behaviour of people in groups, management processes and communication in organisations.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q15",
+      "question": "Which discipline contains the rules and regulations of society, including law dealing with workplace activities?",
+      "options": [
+        "Law",
+        "Psychology",
+        "Biology",
+        "Engineering"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source identifies law as containing the rules and regulations of society, including the mass of law dealing with workplace activities.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q16",
+      "question": "Which contributing discipline provides legal rules and regulations for workplace activities?",
+      "options": [
+        "Law",
+        "Chemistry",
+        "Sociology",
+        "Toxicology"
+      ],
+      "answerIndex": 0,
+      "explanation": "Law provides the rules and regulations of society, including those dealing with workplace activities.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q17",
+      "question": "Why is the cause-and-effect relationship an obstacle to good health and safety standards?",
+      "options": [
+        "Many ill-effects have no readily identifiable cause or their relationship with a cause is not straightforward",
+        "All workplace ill-effects always have one obvious cause",
+        "Cause-and-effect is only relevant to fire emergencies",
+        "Workers never experience ill-effects from work"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source explains that many ill-effects suffered at work have no readily identifiable cause, or the relationship between cause and effect is not straightforward.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q18",
+      "question": "What does the example of sick building syndrome illustrate?",
+      "options": [
+        "That a general term may cover a variety of causes and the cause-effect relationship may not be simple",
+        "That all office illnesses have a single known cause",
+        "That building design has no effect on health",
+        "That only physical injuries matter in health and safety"
+      ],
+      "answerIndex": 0,
+      "explanation": "Sick building syndrome is used in the source to show that symptoms may be attributed to a general term covering a variety of causes such as lighting, air-conditioning and static electricity, so the cause-effect relationship is not simple.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q19",
+      "question": "Work-related upper limb disorders affecting some keyboard users but not others illustrates which point?",
+      "options": [
+        "The cause-and-effect relationship is not always straightforward",
+        "All workers exposed to a hazard will always suffer the same harm",
+        "Keyboard work is completely risk-free",
+        "Only traumatic accidents cause ill-health"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source uses WRULD or RSI to show that some workers using keyboards are affected but not others, illustrating that cause and effect is not always straightforward.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q20",
+      "question": "What did the link established between asbestos exposure and lung disorders demonstrate?",
+      "options": [
+        "Increasing scientific understanding can identify workplace causes and lead to stricter controls",
+        "Lung disorders are never work-related",
+        "Asbestos controls were relaxed after the link was found",
+        "Scientific understanding is irrelevant to health and safety"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that lung disorders among certain workers were attributed to the workplace only when the link between asbestos exposure and such health problems was established, after which stricter controls followed.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q21",
+      "question": "What effect has technological change and computerisation had on work processes according to the source?",
+      "options": [
+        "It has increased the range and complexity of activities, sped up operations and changed traditional organisation and management patterns",
+        "It has removed all workplace hazards",
+        "It has made all work processes simpler and slower",
+        "It has eliminated the need for health and safety management"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source says technological change and computerisation have increased the range and complexity of activities, sped up operations and changed traditional patterns of organisation and management.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q22",
+      "question": "As hazards and risks to health have become better understood, what has happened to legislation and official guidance?",
+      "options": [
+        "They have steadily increased in number and complexity",
+        "They have been withdrawn completely",
+        "They have remained unchanged for all workplaces",
+        "They have become limited to agriculture only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that reflecting better understanding of hazards and risks, legislation and official guidance covering workplaces have steadily increased in number and complexity.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q23",
+      "question": "Why may health and safety not be seen as a priority by management in some organisations?",
+      "options": [
+        "It may be regarded as a non-productive cost that conflicts with production and cost-cutting demands",
+        "It always increases production without any cost",
+        "It is unrelated to customer expectations",
+        "It removes the need for management decisions"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source explains that health and safety may be seen as a cost that does not directly contribute to goods and services, and may conflict with production, sales or cost-cutting priorities.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q24",
+      "question": "In a competitive and cost-conscious environment, what is the primary objective of management according to the source?",
+      "options": [
+        "To achieve the goals of producing demanded goods and services profitably or effectively",
+        "To ignore all legal duties",
+        "To eliminate management functions",
+        "To stop all production activities"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that organisations exist to produce goods and services demanded by customers and clients, and management's primary objective is to achieve those goals profitably or effectively.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q25",
+      "question": "For occupational health and safety practice to work successfully, what is required?",
+      "options": [
+        "Collaboration and participation of both employers and workers",
+        "Action by workers alone",
+        "Action by employers alone",
+        "Complete reliance on insurance companies"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that successful occupational health and safety practice requires collaboration and participation of both employers and workers.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q26",
+      "question": "What percentage of workplace accidents has been estimated to be caused by human action or lack of action?",
+      "options": [
+        "60%",
+        "10%",
+        "25%",
+        "90%"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that it has been estimated that 60% of workplace accidents are caused by human action or lack of action.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q27",
+      "question": "Which factor can influence whether workers are conscious of hazards and motivated to maintain safe working practices?",
+      "options": [
+        "Conflicts between individual or group goals and health and safety requirements",
+        "The colour of the company logo",
+        "The number of external websites available",
+        "The type of stationery used in offices"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source identifies conflicts between individual or group goals and health and safety requirements, such as pursuing output bonuses or working excessive hours, as an influencing factor.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q28",
+      "question": "Which items are included in individual characteristics and suitability for the job?",
+      "options": [
+        "Physical or mental characteristics, knowledge and skills, temperament and personality",
+        "Only the worker's age",
+        "Only the worker's job title",
+        "Only the employer's insurance premium"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source lists physical or mental characteristics, knowledge and skills, temperament and personality as individual characteristics and suitability factors.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q29",
+      "question": "Which statement correctly distinguishes health, safety and welfare?",
+      "options": [
+        "Health concerns physical condition of body and mind; safety concerns conditions and reducing risk to an acceptable level; welfare concerns general well-being and comfort",
+        "Health concerns only fire precautions; safety concerns only wages; welfare concerns only legal fines",
+        "Health, safety and welfare all mean exactly the same thing",
+        "Health concerns external pollution; safety concerns welfare; welfare concerns machine design"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines health in relation to physical condition of body and mind and protection from injury or disease, safety in relation to conditions and reducing risk to an acceptable level, and welfare in relation to general well-being, comfort, social and personal well-being.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q30",
+      "question": "Safety relates most closely to which of the following?",
+      "options": [
+        "Conditions at the workplace and the pursuit of a state where risk of harm is eliminated or reduced to an acceptable level",
+        "Only the general comfort and social well-being of workers",
+        "Only pollution outside the workplace",
+        "Only the payment of wages"
+      ],
+      "answerIndex": 0,
+      "explanation": "Safety relates to conditions at the workplace and applies to pursuing a state where the risk of harm has been eliminated or reduced to an acceptable level.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q31",
+      "question": "Environmental protection comprises which two types in the source?",
+      "options": [
+        "The workplace environment and the external environment",
+        "The legal environment and the financial environment",
+        "The production environment and the sales environment",
+        "The internal audit environment and the training environment"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source describes environmental protection as comprising the workplace environment and the external environment.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q32",
+      "question": "What does the external environment relate to in environmental protection?",
+      "options": [
+        "Pollution or damage to air, land, water and living creatures outside the workplace affected by workplace activities",
+        "Lighting and noise levels inside the workplace only",
+        "The comfort of workers in the workplace only",
+        "The legal duties of workers only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The external environment relates to pollution of or damage to air, land, water and living creatures outside the workplace insofar as they may be affected by workplace activities.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q33",
+      "question": "What is an incident according to the source?",
+      "options": [
+        "An event that gave rise to an accident or had the potential to lead to an accident, including accidents and near misses",
+        "Only an event that caused fatal injury",
+        "Only an event reportable to the police",
+        "Only damage to property"
+      ],
+      "answerIndex": 0,
+      "explanation": "An incident is defined as an event that gave rise to an accident or had the potential to lead to an accident, and the term includes accidents and near misses.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q34",
+      "question": "What is a near miss?",
+      "options": [
+        "An event that could have resulted in injury or loss but did not in fact do so",
+        "An event that always results in serious injury",
+        "An event that is always a criminal offence",
+        "An event that causes damage but never injury"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines a near miss as any form of event which could have resulted in injury or loss but did not in fact do so.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q35",
+      "question": "What is an accident according to the source?",
+      "options": [
+        "An undesired event giving rise to death, ill-health, injury, damage or other loss",
+        "Any event with no potential for harm",
+        "Only an event that causes property damage",
+        "Only a reportable dangerous occurrence"
+      ],
+      "answerIndex": 0,
+      "explanation": "An accident is widely agreed to mean an undesired event giving rise to death, ill-health, injury, damage or other loss.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q36",
+      "question": "A worker sees a missing machine guard, pulls his hand away and only gets a smear of oil on his fingers. What type of event is this?",
+      "options": [
+        "A near miss",
+        "A fatal accident",
+        "An occupational disease",
+        "A commuting accident"
+      ],
+      "answerIndex": 0,
+      "explanation": "This is the source example of a near miss: the event could have resulted in injury but did not, leaving only a smear of oil.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q37",
+      "question": "What is an occupational accident?",
+      "options": [
+        "An occurrence arising out of or in the course of work which results in fatal or non-fatal injury",
+        "An accident occurring only while commuting to work",
+        "A disease contracted after long-term exposure",
+        "Any event with no injury or damage"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines an occupational accident as an occurrence arising out of, or in the course of, work which results in fatal or non-fatal injury.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q38",
+      "question": "A commuting accident may occur on the direct way between the place of work and which locations?",
+      "options": [
+        "The worker's principal or secondary residence, usual meal place or usual remuneration place",
+        "Any holiday destination",
+        "Any place chosen for recreation",
+        "Only the worker's permanent residence"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines a commuting accident as occurring on the direct way between the place of work and the worker's principal or secondary residence, usual meal place, or usual remuneration place.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q39",
+      "question": "What is a dangerous occurrence?",
+      "options": [
+        "A readily identifiable event defined under national laws and regulations with potential to cause injury or disease, typically involving serious potential even if no injury results",
+        "Any near miss involving no loss or damage",
+        "Only a disease contracted from asbestos",
+        "Only an accident while commuting"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines dangerous occurrences as readily identifiable events defined under national laws and regulations with potential to cause injury or disease, typically involving serious potential and usually some loss or damage.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q40",
+      "question": "What is an occupational disease?",
+      "options": [
+        "Any disease contracted as a result of exposure to risk factors arising from work activity",
+        "Any injury caused by a single workplace accident",
+        "Any accident occurring on the direct way to work",
+        "Any near miss that causes no harm"
+      ],
+      "answerIndex": 0,
+      "explanation": "An occupational disease is any disease contracted as a result of exposure to risk factors arising from work activity, such as occupational cancer from asbestos exposure.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q41",
+      "question": "What are the main differences between health issues and safety issues according to the source?",
+      "options": [
+        "Timescale and the nature of the harm: physical accidents happen quickly, while health effects tend to occur slowly and relate to illness rather than injury",
+        "Health issues always happen instantly and safety issues never cause harm",
+        "Safety issues relate only to legal fines and health issues only to insurance",
+        "There is no difference between health and safety issues"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the main differences are timescale and nature of harm: physical accidents happen quickly, health accidents tend to occur slowly, and health issues relate to illness while safety issues relate to injuries.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q42",
+      "question": "Which statement about work-related ill-health is correct?",
+      "options": [
+        "It may be physiological from long-term exposure to dangerous substances or damaging practices, or psychological and usually related to stress",
+        "It is always caused by a single sudden accident",
+        "It can only be physiological and never psychological",
+        "It is never related to work activity"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states work-related ill-health may be physiological from long-term exposure to dangerous substances or damaging working practices, or psychological, usually related to stress and including depression.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q43",
+      "question": "What is a hazard?",
+      "options": [
+        "An article, substance or situation that has the potential to cause harm or damage",
+        "The likelihood that harm will occur",
+        "Only a legal fine for non-compliance",
+        "Only an event that has already caused injury"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines a hazard as an article, substance or situation that has the potential to cause harm or damage.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q44",
+      "question": "What is a risk?",
+      "options": [
+        "The likelihood of harm occurring",
+        "Any article or substance with potential to cause harm",
+        "A legal duty owed by employers",
+        "A type of occupational disease"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines a risk as the likelihood of harm occurring.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q45",
+      "question": "What does the degree of risk depend on?",
+      "options": [
+        "The likelihood of harm happening and the severity of the outcome",
+        "Only the number of workers employed",
+        "Only the cost of insurance",
+        "Only the age of the building"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the degree of risk depends on the likelihood of harm happening and the severity of the outcome, including type of injury and numbers involved.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q46",
+      "question": "Using the source table, what is the magnitude of risk for a cable trailing across the head of a stairway?",
+      "options": [
+        "High",
+        "Zero",
+        "Low",
+        "Medium"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source table classifies a cable trailing across the head of a stairway as having a high magnitude of risk because of the likelihood and severity of a fall.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q47",
+      "question": "Using the source table, what is the magnitude of risk for a cable fastened to the wall?",
+      "options": [
+        "Zero",
+        "Low",
+        "Medium",
+        "High"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source table gives zero magnitude of risk when the cable is fastened to the wall.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q48",
+      "question": "For equipment such as a vacuum cleaner where the trailing cable cannot be eliminated, what solution does the source suggest?",
+      "options": [
+        "Reduce the risk by considering cable positioning and perhaps providing warning signs",
+        "Ignore the cable because it is only a minor issue",
+        "Remove all warning signs to avoid confusion",
+        "Rely only on workers to remember the hazard"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source suggests that where elimination is not possible, the risk can be reduced by considering the positioning of the cable and perhaps providing warning signs.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q49",
+      "question": "What is the basis of the employer's moral responsibility for health and safety?",
+      "options": [
+        "Employers provide premises, equipment and working practices and gain from workplace conditions, so they have a moral responsibility to provide appropriate working conditions",
+        "Employers own all worker property",
+        "Workers have no role in production",
+        "Moral responsibility applies only to employees"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source explains that employers provide the premises, equipment and working practices and gain from workplace conditions, and in return have a moral responsibility to provide appropriate working conditions.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q50",
+      "question": "Which of the following is an economic or legal reason for employers to be concerned with health and safety?",
+      "options": [
+        "Fines and damages, loss of output, lower worker morale and damage to customer image",
+        "Increased production without any cost",
+        "Avoidance of all management responsibility",
+        "Reduction in the need for training"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source identifies fines, damages, loss of output, lower morale and motivation, and adverse customer or client image as economic and legal reasons for concern.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q51",
+      "question": "According to the ILO SafeWork statistics in the source, which sector accounts for about half of on-the-job fatalities?",
+      "options": [
+        "Agriculture",
+        "Banking",
+        "Tourism",
+        "Information technology"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states there are around 355,000 on-the-job fatalities each year and half of these occur in agriculture.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q52",
+      "question": "According to the ILO SafeWork statistics in the source, what percentage of world gross domestic product is lost each year through injury, death and absence?",
+      "options": [
+        "4%",
+        "40%",
+        "14%",
+        "1%"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that 4% of the world's gross domestic product is lost each year through the cost of injury, death, absence and similar factors.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q53",
+      "question": "What are direct costs of accidents and ill-health?",
+      "options": [
+        "Measurable costs arising from an accident or claim, such as sick pay, repairs, product loss, fines, legal fees and insurance premium increases",
+        "Costs that never involve money",
+        "Only loss of corporate image",
+        "Only business interruption and loss of orders"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines direct costs as measurable costs arising from an accident or claim, including sick pay, repairs or replacement, product loss, loss of production, liability, fines, legal fees and insurance premium increases.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q54",
+      "question": "What are indirect costs of accidents and ill-health?",
+      "options": [
+        "Consequences that may arise but generally do not involve payment of money, such as business interruption, loss of orders, investigation time and loss of corporate image",
+        "Only fines imposed by a court",
+        "Only the cost of replacement equipment",
+        "Only sick pay and medical treatment"
+      ],
+      "answerIndex": 0,
+      "explanation": "Indirect costs are costs arising as a consequence of the event that generally do not involve payment of money and are often largely unknown, such as business interruption, loss of orders, investigation time and loss of corporate image.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q55",
+      "question": "What direct costs are associated with an event that causes no damage to property and no injury to people?",
+      "options": [
+        "There are no direct costs, although near misses may incur minor indirect costs from temporary stoppage",
+        "Heavy fines and compensation",
+        "Medical treatment and compensation",
+        "Replacement of plant and equipment"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states there are no direct costs for events causing no damage or injury, but near misses may incur minor indirect costs related to temporary stoppage of work.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q56",
+      "question": "Which of the following is a direct cost of an event that damages material, plant or equipment but does not injure personnel?",
+      "options": [
+        "Cost of replacement or repair of plant and equipment",
+        "Loss of corporate image",
+        "Loss of goodwill from customers",
+        "Cost of time spent on investigations"
+      ],
+      "answerIndex": 0,
+      "explanation": "Direct costs for damage without injury include value of wasted materials, lost products, cost of replacement or repair of plant and equipment, loss of production and increased overtime. Loss of corporate image, goodwill and investigation time are indirect costs.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q57",
+      "question": "What do uninsured costs include?",
+      "options": [
+        "All indirect costs as well as costs relating to loss of production from many types of incident",
+        "Only direct medical costs",
+        "Only fines imposed by courts",
+        "Only the cost of insurance premiums"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states uninsured costs include all indirect costs as well as those relating to loss of production as a result of many types of incident.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q58",
+      "question": "What estimate does the source give for uninsured losses compared with insured losses?",
+      "options": [
+        "Uninsured losses were between 8 and 36 times greater than insured losses",
+        "Uninsured losses were always zero",
+        "Uninsured losses were exactly equal to insured losses",
+        "Insured losses were 100 times greater than uninsured losses"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states it has been estimated that uninsured losses were between 8 and 36 times greater than insured losses.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q59",
+      "question": "How is the fault-based tort compensation system described in the source?",
+      "options": [
+        "It is essentially adversarial, requires someone else to be blamed, and is the principal mechanism in the UK and USA",
+        "It is non-adversarial and never involves courts",
+        "It is used only in New Zealand and Sweden",
+        "It does not require any finding of fault"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source describes the tort-based system as adversarial, requiring someone else to be blamed, and as the principal compensation mechanism used in the UK and USA.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q60",
+      "question": "How is a no-fault compensation system described in the source?",
+      "options": [
+        "There is no requirement to blame employers or employees; a panel of experts decides whether compensation should be awarded, and it is non-adversarial",
+        "It requires workers to prove employer fault in court",
+        "It is used only in the UK and USA",
+        "It always involves lawyers and courts"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states no-fault systems do not require blaming employers or employees, use a panel of experts, are non-adversarial and are operated in countries such as New Zealand and Sweden.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q61",
+      "question": "What does providing a safe place of work include?",
+      "options": [
+        "Ensuring the workplace is reasonably safe and providing safe access to and from the workplace",
+        "Providing only safe machinery and ignoring access",
+        "Providing safe systems of work only after an accident",
+        "Relying only on workers to identify unsafe access"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the employer should provide a safe place of work and safe access to and from the workplace, because a safe workplace is undermined if access is unsafe.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q62",
+      "question": "What does the duty to provide safe plant and equipment require?",
+      "options": [
+        "Machinery, tools, plant, equipment and appliances must be kept in a well-maintained and safe condition at all times",
+        "Only new equipment must be safe; old equipment can be ignored",
+        "Only equipment used by managers must be maintained",
+        "Maintenance is required only after a serious accident"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states all machinery, tools, plant, equipment and appliances used by workers must at all times be kept in a well-maintained and safe condition.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q63",
+      "question": "What is required of a safe system of work?",
+      "options": [
+        "It should be reasonably safe in all circumstances and cover all foreseeable possibilities",
+        "It only needs to cover good weather conditions",
+        "It is safe if no accident has occurred for a period of time",
+        "It does not need to be communicated to workers"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the system of work should be reasonably safe in all circumstances and procedures must cover all foreseeable possibilities, such as operating drilling equipment in different weather.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q64",
+      "question": "What does the source say about training, supervision and competency of staff?",
+      "options": [
+        "Employers must ensure staff are competent, trained and instructed, and should take reasonable practical steps to check that correct procedures are followed",
+        "Training is only needed for managers",
+        "Supervision means watching over each worker's shoulder continuously",
+        "Competency is only about physical strength"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states employers must ensure workers have the knowledge, experience, skills and training to work safely, provide suitable training and instruction, and take reasonable practical steps to check procedures are followed.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q65",
+      "question": "What is the ILO Occupational Health and Safety Convention 1981, C155?",
+      "options": [
+        "A basic goal-setting policy for health and safety at national level and at the level of the individual undertaking",
+        "A recommendation that has no relationship to health and safety",
+        "A national law that applies only in the UK",
+        "A standard for quality management only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states C155 was adopted by the ILO in 1981 and sets forth a basic goal-setting policy for health and safety at both national and undertaking level.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q66",
+      "question": "What is the role of the Occupational Safety and Health Recommendation 1981, R164?",
+      "options": [
+        "It supplements C155 and provides more detailed guidance on how to comply with its policies",
+        "It replaces all national legislation",
+        "It is a court judgment on negligence",
+        "It applies only to the construction industry"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states R164 supplements C155 and provides more detailed guidance on how to comply with C155 policies, including obligations on employers and workers.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q67",
+      "question": "What does Article 16 of ILO C155 require of employers?",
+      "options": [
+        "Ensure so far as is reasonably practicable that workplaces, machinery, equipment and processes under their control are safe and without risk to health",
+        "Ensure that workers never report hazards",
+        "Provide safe equipment only when requested by workers",
+        "Ignore chemical and biological substances under their control"
+      ],
+      "answerIndex": 0,
+      "explanation": "Article 16 of C155 requires employers to ensure, so far as is reasonably practicable, that workplaces, machinery, equipment and processes under their control are safe and without risk to health.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q68",
+      "question": "Which practical obligation is identified in Article 10 of R164?",
+      "options": [
+        "Ensure that work organisation, particularly hours of work and rest breaks, does not adversely affect occupational safety and health",
+        "Require workers to pay for all protective equipment",
+        "Avoid providing supervision in all circumstances",
+        "Ignore excessive physical and mental fatigue"
+      ],
+      "answerIndex": 0,
+      "explanation": "R164 Article 10 includes ensuring work organisation, particularly hours of work and rest breaks, does not adversely affect occupational safety and health, and taking reasonably practicable measures to eliminate excessive physical and mental fatigue.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q69",
+      "question": "Which of the following is a worker responsibility under Article 19 of C155?",
+      "options": [
+        "Take reasonable care for their own safety and that of other persons who may be affected by their acts or omissions at work",
+        "Ignore safety instructions if they slow production",
+        "Render safety devices inoperative when convenient",
+        "Avoid reporting hazards to supervisors"
+      ],
+      "answerIndex": 0,
+      "explanation": "Article 19 requires workers to take reasonable care for their own safety and that of others affected by their acts or omissions at work, among other duties.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q70",
+      "question": "What right does Article 19 of C155 give a worker who reasonably believes there is an imminent and serious danger to life or health?",
+      "options": [
+        "The worker can report it forthwith to the immediate supervisor, and the employer cannot require return to the continuing imminent and serious danger until remedial action is taken",
+        "The worker must continue working until the end of the shift",
+        "The worker must remain silent until the annual audit",
+        "The worker must resolve the danger personally without reporting it"
+      ],
+      "answerIndex": 0,
+      "explanation": "Article 19 provides that a worker reporting an imminent and serious danger cannot be required to return to a work situation where there is continuing imminent and serious danger until remedial action is taken.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q71",
+      "question": "What are typical consequences of non-compliance with health and safety legislation?",
+      "options": [
+        "Breach is usually a criminal offence, with possible fines and in some countries imprisonment or personal fines for individuals",
+        "There are never any legal consequences",
+        "Only civil compensation is possible and criminal liability never arises",
+        "Non-compliance is always ignored by enforcing authorities"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states a breach of health and safety legislation is usually a criminal offence, and companies may face heavy fines while individuals may face imprisonment or personal fines.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q72",
+      "question": "What is negligence in health and safety terms?",
+      "options": [
+        "A breach of the legal duty to exercise reasonable care towards others, causing foreseeable harm to someone to whom a duty of care was owed",
+        "Any near miss that causes no harm",
+        "Any accident that is reported to the enforcing authority",
+        "A type of no-fault compensation system"
+      ],
+      "answerIndex": 0,
+      "explanation": "Negligence consists of a breach of the legal duty to exercise reasonable care towards others, causing harm to someone to whom a duty of care was owed, where the harm was reasonably foreseeable.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q73",
+      "question": "What role may a health and safety enforcement agency play?",
+      "options": [
+        "It effectively acts as the health and safety police, enforcing laws, investigating and providing advice",
+        "It only sells insurance to employers",
+        "It only provides medical treatment to injured workers",
+        "It replaces all courts and judges"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source describes enforcement agencies as effectively the health and safety police, able to enforce laws, investigate and provide advice.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q74",
+      "question": "How can insurance companies influence health and safety standards?",
+      "options": [
+        "Through inspections and audits, and by refusing insurance cover unless their standards are met",
+        "By replacing all government enforcement agencies",
+        "By providing legal immunity to employers",
+        "By preventing any workplace inspections"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states insurance companies may conduct inspections and audits and can exert influence by refusing to provide insurance cover unless their standards are met.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q75",
+      "question": "What are the two primary outputs of the ILO in setting international health and safety standards?",
+      "options": [
+        "Conventions and Recommendations",
+        "Fines and imprisonment",
+        "Risk assessments and audits",
+        "Insurance policies and claims"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the two primary outputs of the ILO are Conventions and Recommendations, which set international standards.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q76",
+      "question": "What is OHSAS 18001:1999?",
+      "options": [
+        "A health and safety management system specification compatible with ISO 9001 and ISO 14001",
+        "A national law on commuting accidents",
+        "A compensation system used in New Zealand",
+        "A type of personal protective equipment"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source describes OHSAS 18001:1999 as describing a health and safety management system thoroughly compatible with ISO 9001 and ISO 14001.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q77",
+      "question": "Which of the following is an external source of health and safety information?",
+      "options": [
+        "National legislation and safety data sheets from manufacturers",
+        "Company accident records",
+        "Internal risk assessments",
+        "Safety committee minutes"
+      ],
+      "answerIndex": 0,
+      "explanation": "External sources include national legislation, safety data sheets from manufacturers and suppliers, enforcing authority publications, maintenance manuals, standards, trade associations and journals.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q78",
+      "question": "Safety data sheets from manufacturers and suppliers are classed as what type of information source?",
+      "options": [
+        "External",
+        "Internal",
+        "Audit only",
+        "Medical only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source lists safety data sheets from manufacturers and suppliers as an external source of health and safety information.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q79",
+      "question": "Which of the following is an internal source of health and safety information?",
+      "options": [
+        "Accident records and maintenance reports",
+        "National legislation",
+        "Manufacturer safety data sheets",
+        "Government guidance notes"
+      ],
+      "answerIndex": 0,
+      "explanation": "Internal sources include accident records, medical records, risk assessments, maintenance reports, joint inspections, audits and safety committee minutes.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q80",
+      "question": "Risk assessments and maintenance reports are examples of what type of information source?",
+      "options": [
+        "Internal",
+        "External",
+        "International standard only",
+        "Trade association only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source lists risk assessments and maintenance reports as internal sources of health and safety information.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q81",
+      "question": "What are key elements of the ILO-OSH 2001 health and safety management model described in the source?",
+      "options": [
+        "Policy, Organising, Planning and Implementation, Evaluation, Action for Improvement, Audit and Continual Improvement",
+        "Production, Sales, Purchasing and Finance only",
+        "Fines, Courts, Insurance and Compensation only",
+        "Hazards, Risks, Accidents and Diseases only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source describes the model as including Policy, Organising, Planning and Implementation, Evaluation, Action for Improvement, Audit and Continual Improvement.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q82",
+      "question": "How should health and safety management be treated within an organisation?",
+      "options": [
+        "As a dynamic process in which policy and arrangements are monitored and reviewed continually",
+        "As a one-off document that never changes",
+        "As a task only for workers",
+        "As a matter unrelated to management functions"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states health and safety management has to be a dynamic process, with policy and arrangements monitored and reviewed continually.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q83",
+      "question": "What should a health and safety policy establish?",
+      "options": [
+        "Health and safety as a prime commitment of management at all levels, particularly at the top, with clear targets and objectives",
+        "That health and safety is only the responsibility of the safety officer",
+        "That production always takes priority over safety",
+        "That no targets or objectives are needed"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the safety policy has to establish health and safety as a prime commitment of management at all levels, particularly at the top, and clear targets and objectives should be set.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q84",
+      "question": "What is the starting point for expressing safety policy according to the source?",
+      "options": [
+        "A clear formal statement covering general policy and the internal organisation and arrangements necessary to put it into operation",
+        "An informal verbal instruction to managers only",
+        "A list of insurance premiums",
+        "A record of near misses only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states the starting point is to express safety policy as a clear formal statement covering not only general policy but also internal organisation and arrangements necessary to put it into operation.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q85",
+      "question": "What does the Organising element of health and safety management involve?",
+      "options": [
+        "A framework of roles and responsibilities for health and safety with duties placed on individuals throughout the organisation",
+        "Only appointing a single safety officer",
+        "Only writing a policy statement",
+        "Only collecting accident statistics"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states there should be a framework of roles and responsibilities for health and safety, with duties placed on individuals throughout the organisation from senior management down to the shop floor.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q86",
+      "question": "According to the Organising element, where should health and safety duties be placed?",
+      "options": [
+        "On individuals throughout the organisation, from senior management down to the shop floor",
+        "Only on the most junior workers",
+        "Only on external enforcement agencies",
+        "Only on insurance company inspectors"
+      ],
+      "answerIndex": 0,
+      "explanation": "The Organising element requires a framework of roles and responsibilities with duties placed on individuals throughout the organisation, from senior management down to the shop floor.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q87",
+      "question": "What concept is central to Planning and Implementation in health and safety management?",
+      "options": [
+        "Risk assessment, followed by identifying and implementing specific systems of work and protective measures",
+        "Only disciplinary action after accidents",
+        "Only purchasing insurance",
+        "Only preparing annual accounts"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states that central to planning and implementation is risk assessment, on the basis of which specific systems of work and protective measures should be identified and implemented.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q88",
+      "question": "Who is responsible for ensuring that health and safety systems and measures are carried out effectively at all times?",
+      "options": [
+        "Management, although workers must also be aware of and accept their own responsibilities",
+        "Only external enforcement agencies",
+        "Only the workers, with no management role",
+        "Only insurance companies"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states responsibility for ensuring systems and measures are carried out effectively rests with management, while workers must also be aware of and accept their own responsibilities.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q89",
+      "question": "What does Evaluation mean in the health and safety management model?",
+      "options": [
+        "Monitoring, measuring and reviewing performance to determine whether systems and measures are working effectively",
+        "Writing the policy statement only",
+        "Appointing specialist staff only",
+        "Punishing workers for accidents only"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states Evaluation basically means monitoring, measuring and reviewing performance to determine whether systems and measures are working effectively.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q90",
+      "question": "How should implementation of the health and safety policy be monitored?",
+      "options": [
+        "On a regular basis by collecting information about accidents and other incidents and assessing arrangements, standards and how they are operated",
+        "Only once at the start of the organisation",
+        "Only by waiting for a serious accident",
+        "Only by asking customers for opinions"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states implementation should be monitored regularly by collecting information about accidents and other incidents, and using it to assess arrangements, standards and operation.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q91",
+      "question": "What is the purpose of Action for Improvement?",
+      "options": [
+        "To set right defects identified by the review process as soon as possible by adjusting policy, organisation and arrangements",
+        "To ignore defects found during evaluation",
+        "To replace all workers after an incident",
+        "To stop monitoring activities permanently"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states any defects identified by the review process must be set right as soon as possible by making necessary adjustments to policy, organisation and arrangements for implementation.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q92",
+      "question": "In the management model, what should happen after defects are identified by evaluation?",
+      "options": [
+        "Action for Improvement should correct them promptly",
+        "They should be recorded and left unchanged",
+        "The policy should be abandoned",
+        "Workers should be blamed without any system review"
+      ],
+      "answerIndex": 0,
+      "explanation": "The model includes Action for Improvement, under which defects identified by review are corrected as soon as possible through adjustments to policy, organisation and arrangements.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q93",
+      "question": "What is auditing in the health and safety management model?",
+      "options": [
+        "Collecting independent information on the efficiency, effectiveness and reliability of the total safety system",
+        "Collecting only accident statistics from workers",
+        "Writing the initial policy statement",
+        "Providing first aid after an accident"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source defines auditing as the process of collecting independent information on the efficiency, effectiveness and reliability of the total safety system in the organisation.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q94",
+      "question": "Why does auditing require information and advice from outside the organisation?",
+      "options": [
+        "To help ensure all aspects of the system remain appropriate in light of current legislation and good health and safety practice",
+        "To replace all internal staff",
+        "To avoid reviewing internal systems",
+        "To prevent continual improvement"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states auditing reflects the need to ensure all aspects of the system remain appropriate in light of current developments in legislation and good practice, so outside information and advice should be obtained and integrated.",
+      "difficulty": "Medium",
+      "marks": 1,
+      "negativeMarks": 0
+    },
+    {
+      "id": "q95",
+      "question": "What does Continual Improvement require in the OSH management system?",
+      "options": [
+        "Arrangements for continual improvement of all elements, using internal data and comparing performance with others to benchmark progress",
+        "Improving only the policy statement once",
+        "Ignoring internal data sources",
+        "Avoiding comparison with other organisations"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source states arrangements need to be made for continual improvement of all elements of the OSH management system, taking account of internal data sources and comparing performance with others to benchmark progress.",
+      "difficulty": "Medium",
+      "marks": 1
+    },
+    {
+      "id": "q96",
+      "question": "Benchmarking progress against other organisations is part of which management model element?",
+      "options": [
+        "Continual Improvement",
+        "Policy",
+        "Organising",
+        "Planning and Implementation"
+      ],
+      "answerIndex": 0,
+      "explanation": "The source places comparison of performance with others, in order to benchmark progress, under Continual Improvement.",
+      "difficulty": "Easy",
+      "marks": 1,
+      "negativeMarks": 0
+    }
+  ]
+}
